@@ -10,9 +10,9 @@ function showDetails() {
     this.nextElementSibling.style.display = "inline-block";
 }
 
+
 function hiddenDetails() {
     this.nextElementSibling.style.display = "none";
-
 }
 
 function showParagraph () {
@@ -21,4 +21,8 @@ function showParagraph () {
 
 function hideParagraph () {
     this.style.display = "none";
+}
+
+function hiddenDisplay() {
+    this.nextElementSibling.style.display = "none";
 }
