@@ -10,7 +10,6 @@ function showDetails() {
     this.nextElementSibling.style.display = "inline-block";
 }
 
-
 function hiddenDetails() {
     this.nextElementSibling.style.display = "none";
 }
