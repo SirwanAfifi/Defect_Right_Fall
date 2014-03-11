@@ -22,7 +22,3 @@ function showParagraph () {
 function hideParagraph () {
     this.style.display = "none";
 }
-
-function hiddenDisplay() {
-    this.nextElementSibling.style.display = "none";
-}
